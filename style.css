@@ -1,0 +1,24 @@
+
+a.one:link {color:red;}
+a.one:visited {color:red;}
+a.one:hover {color:yellow
+}
+a.two:link {color:red;}
+a.two:visited {color:red;}
+a.two:hover {color:red; font-size: 33px;
+}
+a.three:link {color:red;}
+a.three:visited {color:red;}
+a.three:hover {color:red;background-color: green;
+}
+a.four:link {color:red;}
+a.four:visited {color:red;}
+a.four:hover {color:red;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+a.five:link {color:red;}
+a.five:visited {color:red;}
+a.five:hover {color:red;text-decoration-color:green; text-decoration-style:double;
+}
+    
+
+    
